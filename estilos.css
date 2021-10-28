@@ -975,7 +975,8 @@ body{
 
 
 
- .mobil:lang(es) {
+ .mobil:lang(es) {      
+                        color: red; 
                         width: 102px;
                        padding-left: 25px;
                 
