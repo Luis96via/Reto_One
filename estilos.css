@@ -975,7 +975,20 @@ body{
 
 
 
+ .mobil:lang(es) {
+                        width: 102px;
+                       padding-left: 25px;
+                
+                 }
 
+ 
+    
+ .hora:lang(es){
+                        
+                         font-size: 30px;
+
+            
+                }
 
 
 
