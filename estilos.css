@@ -2682,9 +2682,69 @@ body{ background-color: red; width: 100%; }
                                                                         
                                                                         .desktop{ display: none;  }
                                                                                                                                                                             
-                                                                                                          }/*EEEEESSTE ES EL FIIIN DE LOS MEDIA QUERIS*/                                                                    
+                                                                                                          }/*EEEEESSTE ES EL FIIIN DE LOS MEDIA QUERIS*/    
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*EEEEESSTE ES EL COMINEZO  DE LOS MEDIA QUERIS*/    
+
+
+
+
+   @media screen and (max-width:344px){ 
+
+
+
+                                         
+        .hijo-izquierdo__IntensInferior{ padding-top: 102%;   }
+    
+    
+    
+                                         }
+    
+/*EEEEESSTE ES EL FIIIN DE LOS MEDIA QUERIS*/    
 
 
 
